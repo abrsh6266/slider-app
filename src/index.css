@@ -356,7 +356,7 @@ ul {
 .slick-slide img {
   display: inline-block;
 }
-
+ 
 .slick-prev::before {
   color: var(--primary-500) !important;
 }
